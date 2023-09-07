@@ -2,4 +2,5 @@
 <br>
 🧑🏻‍💻 No momemto estou estudando:<br>
 -🐍 Python;<br>
--🪶 Tkinter.
+-🪶 Tkinter;<br>
+-🗃️ SQL.
