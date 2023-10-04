@@ -4,5 +4,5 @@
 -🐍 Python;<br>
 -🪶 Tkinter;<br>
 -🗃️ SQL;<br>
--📄 HTML;
+-📄 HTML;<br>
 -📰 CSS.
