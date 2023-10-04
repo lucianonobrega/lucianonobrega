@@ -3,4 +3,6 @@
 🧑🏻‍💻 No momemto estou estudando:<br>
 -🐍 Python;<br>
 -🪶 Tkinter;<br>
--🗃️ SQL.
+-🗃️ SQL;<br>
+-📄 HTML;
+-📰 CSS.
