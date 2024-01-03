@@ -9,5 +9,5 @@
   <li>Flask 🌶️;</li>
   <li>Tkinter 🪶.</li>
 </ul>
-<p>Fique à vontade para dar uma olhada nos meus projetos! 😉</p>
+<p>Fique à vontade para dar uma olhada nos meus repositórios! 😉</p>
 <p>Caso queira entrar em contato, mande um e-mail para: <strong>lucianonobregadev@gmail.com</strong></p>
