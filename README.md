@@ -4,6 +4,7 @@
   <li>Python 🐍;</li>
   <li>HTML 📃;</li>
   <li>CSS 📜;</li>
+  <li>JS 💻;</li>
   <li>MySQL 🗄️;</li>
   <li>SQLite3 🗃️;</li>
   <li>Flask 🌶️;</li>
