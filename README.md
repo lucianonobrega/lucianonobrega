@@ -1,8 +1,8 @@
 [![shield-32x-b.png](https://i.postimg.cc/sDCbLmyY/shield-32x-b.png)](https://postimg.cc/rzgh0SDs) `LUCIANO NÓBREGA`
 
-`[ PTBR ]` Bem-vindos, me chamo Luciano Nóbrega `"lucianonobrega"` meu Git. Programador Fullstack Python.
+`[ PTBR ]` Bem-vindos, me chamo Luciano Nóbrega, Programador Fullstack.
 
-`[ EN ]` Welcome, my name is Luciano Nóbrega `"lucianonobrega"` my Git. Fullstack Python programmer. 
+`[ EN ]` Welcome, my name is Luciano Nóbrega, Fullstack programmer. 
 ___
 # GIT-STATS
 
