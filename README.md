@@ -1,5 +1,3 @@
-[![shield-32x-b.png](https://i.postimg.cc/sDCbLmyY/shield-32x-b.png)](https://postimg.cc/rzgh0SDs) `LUCIANO NÓBREGA`
-
 `[ PTBR ]` Bem-vindos, me chamo Luciano Nóbrega, Programador Fullstack.
 
 `[ EN ]` Welcome, my name is Luciano Nóbrega, Fullstack programmer. 
@@ -7,8 +5,6 @@ ___
 # GIT-STATS
 
 <div align="center">
-
-[![shield-128x-b.png](https://i.postimg.cc/T3CSpXb0/shield-128x-b.png)](https://postimg.cc/21LTKM2L)
 
 ![lucianonobrega](https://github-readme-stats.vercel.app/api?username=lucianonobrega&show_icons=true&theme=radical)
 
