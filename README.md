@@ -1,6 +1,5 @@
-`[ PTBR ]` Bem-vindos, me chamo Luciano Nóbrega, Programador Fullstack.
+Bem-vindos! Me chamo Luciano Nóbrega, Programador Fullstack.
 
-`[ EN ]` Welcome, my name is Luciano Nóbrega, Fullstack programmer. 
 ___
 # GIT-STATS
 
@@ -28,7 +27,7 @@ Desenvolvedor FrontEnd, HTML5, CSS3, BootStrap e Javascript.
 
 
 ___
-# PYTHON
+# BACKEND
 ![Python](https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python3&logo=Python&logoColor=blue&style=for-the-badge)
 
 ## `Web` : Flask.  
