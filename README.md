@@ -19,16 +19,15 @@ ___
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Desenvolvedor FrontEnd, HTML5, CSS3, BootStrap e Javascript.
-
-
 ___
 ## BACKEND
-![Python](https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python3&logo=Python&logoColor=blue&style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-0000FF?style=for-the-badge&logo=python&logoColor=white)
+![FLASK](https://img.shields.io/badge/FLASK-323330?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-E34F26?style=for-the-badge&logo=postman&logoColor=white)
+![Tkinter](https://img.shields.io/badge/TKINTER-1572B6?style=for-the-badge&logo=tkinter&logoColor=white)
 
 ### `Web` : Flask.  
-### `Gui` : PySimpleGui, Tkinter.
-### `Aut` : PyAutoGui.
+### `Gui` : Tkinter.
 
 ## DATABASE
 ![MySQL](https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,6 +37,7 @@ ___
 ___
 ## CONTATO
 ![linkdin-shield-28.png](https://i.postimg.cc/c4NshDwG/linkdin-shield-28.png)[](https://br.linkedin.com/in/luciano-n%C3%B3brega-dev)
+https://www.linkedin.com/in/luciano-nobrega-dev/
 
 Fique à vontade para dar uma olhada nos meus repositórios! 😉
 
