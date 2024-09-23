@@ -1,4 +1,4 @@
-## Bem-vindos! Me chamo Luciano Nóbrega, Programador Fullstack.
+## 👋 Bem-vindo(a)! Me chamo Luciano Nóbrega, Desenvolvedor Fullstack
 
 <div align="center">
 
@@ -8,34 +8,38 @@
 
 </div>
 
+###
+
+<h2 align="left">🚀 Tecnologias que utilizo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" title="CSS">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" title="SQLite">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" title="Flask">
+  <img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" title="Postman">
+  <img width="10">
+  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" height="40" alt="Tkinter logo" title="Tkinter">
+</div>
+
+###
+
+
+
 ___
-## SISTEMAS
-
-![windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=social)
-
-___
-## FRONTEND
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-___
-## BACKEND
-![Python](https://img.shields.io/badge/PYTHON-0000FF?style=for-the-badge&logo=python&logoColor=white)
-![FLASK](https://img.shields.io/badge/FLASK-323330?style=for-the-badge&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-E34F26?style=for-the-badge&logo=postman&logoColor=white)
-![Tkinter](https://img.shields.io/badge/TKINTER-1572B6?style=for-the-badge&logo=tkinter&logoColor=white)
-
-### `Web` : Flask.  
-### `Gui` : Tkinter.
-
-## DATABASE
-![MySQL](https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-___
-## CONTATO
+## 📫 CONTATO
 ![linkdin-shield-28.png](https://i.postimg.cc/c4NshDwG/linkdin-shield-28.png)[](https://br.linkedin.com/in/luciano-n%C3%B3brega-dev)
 https://www.linkedin.com/in/luciano-nobrega-dev/
 
