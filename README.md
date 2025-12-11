@@ -1,12 +1,4 @@
-## 👋 Bem-vindo(a)! Me chamo Luciano Nóbrega, Desenvolvedor Fullstack
-
-<div align="center">
-
-![lucianonobrega](https://github-readme-stats.vercel.app/api?username=lucianonobrega&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianonobrega)](https://github.com/lucianonobrega/github-readme-stats)
-
-</div>
+## 👋 Bem-vindo(a)! Me chamo Luciano Nóbrega, Desenvolvedor Front-End
 
 ###
 
