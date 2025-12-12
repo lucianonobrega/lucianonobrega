@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 👨‍💻 Sobre mim:
 Desenvolvedor Front-End<br><br>Tecnologias: JavaScript, React.js, HTML, CSS, Python, Flask, MySQL, SQLite, Git e GitHub.<br><br>Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-End e criação de interfaces funcionais, acessíveis e bem estruturadas. Tenho me dedicado a aprimorar minhas habilidades construindo projetos práticos, estudando continuamente e resolvendo desafios que fortalecem meu raciocínio lógico e minha capacidade de transformar ideias em aplicações reais.<br><br>Busco evoluir constantemente e contribuir com soluções eficientes, seja em equipe ou em projetos pessoais. Possuo experiência prática com projetos publicados no GitHub, além de desafios concluídos no Beecrowd e Frontend Mentor.
 
 
