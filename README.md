@@ -1,33 +1,18 @@
-## 👋 Bem-vindo(a)! Me chamo Luciano Nóbrega, Desenvolvedor Front-End
-
-###
-
-<h2 align="left">🚀 Tecnologias que utilizo</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman">
-  <img src="https://w7.pngwing.com/pngs/679/344/png-transparent-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-computer-program.png" width="40" height="40" alt="Tkinter" title="Tkinter">
-</div>
+# 💫 Sobre mim:
+Desenvolvedor Front-End<br><br>Tecnologias: JavaScript, React.js, HTML, CSS, Python, Flask, MySQL, SQLite, Git e GitHub.<br><br>Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-End e criação de interfaces funcionais, acessíveis e bem estruturadas. Tenho me dedicado a aprimorar minhas habilidades construindo projetos práticos, estudando continuamente e resolvendo desafios que fortalecem meu raciocínio lógico e minha capacidade de transformar ideias em aplicações reais.<br><br>Busco evoluir constantemente e contribuir com soluções eficientes, seja em equipe ou em projetos pessoais. Possuo experiência prática com projetos publicados no GitHub, além de desafios concluídos no Beecrowd e Frontend Mentor.
 
 
-###
+## 🌐 Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luciano-nobrega-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucianonobregadev@gmail.com) 
 
+# 💻 Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucianonobrega&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lucianonobrega&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianonobrega&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=lucianonobrega&icon=0&color=0)](https://visitcount.itsvg.in)
 
-___
-## 📫 CONTATO
-![linkdin-shield-28.png](https://i.postimg.cc/c4NshDwG/linkdin-shield-28.png)[](https://br.linkedin.com/in/luciano-n%C3%B3brega-dev)
-https://www.linkedin.com/in/luciano-nobrega-dev/
-
-Fique à vontade para dar uma olhada nos meus repositórios! 😉
-
-Caso queira entrar em contato, mande um e-mail para: lucianonobregadev@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
